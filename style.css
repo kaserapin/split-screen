@@ -133,10 +133,10 @@ h1 {
 
 @media (max-width: 800px) {
   h1 {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
   .button {
-    width: 12rem;
+    width: 10rem;
   }
 }
 
